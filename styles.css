@@ -88,6 +88,98 @@ color: rgb(255, 255, 255);
 margin-left: 41%;
 }
 
+/* Nicolas Cage DIV */
+
+.nicolas{
+background-color: rgba(0, 0, 0, 0.651);
+margin-top: 8%;
+margin-bottom: 3%;
+margin-left: 15%;
+margin-right: 5%;
+width: 30%;
+text-align: center;
+padding: 20px;
+display: inline-block;
+}
+
+.nicolas img{
+width: 40%;
+height: 25%;
+margin:  1% 10%;
+}
+    
+
+/* Sam Rockwell DIV */
+
+.sam{
+background-color: rgba(0, 0, 0, 0.651);
+margin-top: 8%;
+margin-bottom: 3%;
+margin-left: 5%;
+margin-right: 13%;
+width: 30%;
+text-align: center;
+padding: 20px;
+display: inline-block;
+}
+    
+.sam img{
+width: 40%;
+height: 25%;
+margin:  1% 10%;
+}
+
+
+/* Alison DIV */
+
+.alison{
+background-color: rgba(0, 0, 0, 0.651);
+margin-top: 3%;
+margin-bottom: 3%;
+margin-left: 15%;
+margin-right: 5%;
+width: 30%;
+text-align: center;
+padding: 20px;
+display: inline-block;
+}
+        
+.alison img{
+width: 40%;
+height: 25%;
+margin:  1% 10%;
+}
+
+/* Bruce DIV */
+
+.bruce{
+background-color: rgba(0, 0, 0, 0.651);
+margin-top: 3%;
+margin-bottom: 3%;
+margin-left: 5%;
+margin-right: 13%;
+width: 30%;
+text-align: center;
+padding: 20px;
+display: inline-block;
+}
+            
+.bruce img{
+width: 40%;
+height: 25%;
+margin:  1% 10%;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 .footer{
 bottom: 0;
