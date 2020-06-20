@@ -8,7 +8,7 @@ Site destinado ao filme Matchstickmen
 
 02 - Atores:
 <p align="center">
-<img src="img/capture.gif">
+<img src="#">
 </p>
 
 03 - Músicas:
@@ -18,5 +18,5 @@ Site destinado ao filme Matchstickmen
 
 04 - Sobre:
 <p align="center">
-<img src="img/capture.gif">
+<img src="#">
 </p>
