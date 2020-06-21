@@ -171,16 +171,6 @@ margin:  1% 10%;
 }
 
 
-
-
-
-
-
-
-
-
-
-
 .footer{
 bottom: 0;
 position: fixed;
@@ -188,4 +178,21 @@ text-align: center;
 background-color: rgb(0, 0, 0);
 color:#FFFFFF;
 width: 100%;
+}
+
+@media (max-width: 1600px){
+
+.movie-trailer figure iframe {
+width: 70%;
+height: 70%;
+}
+
+p, li {
+color: rgb(255, 255, 255);
+font-size: 8px;
+}
+
+
+
+
 }
