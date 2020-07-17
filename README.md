@@ -16,7 +16,3 @@ Site destinado ao filme Matchstickmen
 <img src="img/capture2.gif">
 </p>
 
-04 - Sobre:
-<p align="center">
-<img src="#">
-</p>
